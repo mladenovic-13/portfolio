@@ -1,5 +1,7 @@
 # My Portfolio Project
 
+![HTML Icon](https://iconscout.com/icon/html5-2474805)
+
 ## Technologies:
 
 - HTML
