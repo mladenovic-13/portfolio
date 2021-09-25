@@ -1,7 +1,5 @@
 # My Portfolio Project
 
----
-
 ## Technologies:
 
 - HTML
