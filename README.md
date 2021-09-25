@@ -8,16 +8,10 @@
 - CSS
 - JavaScript
 
----
-
 ## Frameworks:
-
----
 
 1. Next.js
 2. Material UI
-
----
 
 ## What is Next.js ?
 
